@@ -1,0 +1,7 @@
+# null Properties File
+loadBgImage=true
+autoSync=true
+autoConnect=true
+loadLastBank=true
+lastBank=Pedal Bank
+extDir=/Users/astrojr1/NetBeansProjects/EffigyControlPanel_rc_0_3_1/data/hidden/7.ecp
