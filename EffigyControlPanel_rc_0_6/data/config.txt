@@ -1,0 +1,6 @@
+# null Properties File
+loadBgImage=true
+autoSync=true
+loadLastBank=true
+lastBank=Pedal Bank
+extDir=/users/you/miditest/testBank.ecp
