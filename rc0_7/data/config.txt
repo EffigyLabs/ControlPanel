@@ -1,0 +1,8 @@
+# null Properties File
+loadBgImage=true
+autoSync=true
+autoConnect=true
+loadLastBank=true
+lastBank=Factory Bank
+extDir=/Users/astrojr1/testBank.ecp
+dataDir=./data
